@@ -16,7 +16,7 @@
 
  <br> 
  
-<div style="display:flex" align="center"><br>
+<div ><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnkerschner&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnkerschner&theme=react&show_icons=true" />
 </div>
@@ -35,7 +35,9 @@
 ##
 
 <h2 align="left">
+
 <br>
+    
 <p align="left">
   Entre em contato: ⤵️
 </p>
