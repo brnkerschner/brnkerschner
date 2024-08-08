@@ -2,6 +2,7 @@
 
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+    
 <br>
   <p align="left"> 
   Cursando Desenvolvimento Front-End.
@@ -10,13 +11,17 @@
   Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
   </p>
 </div>
+
 <br>
+
  <br> 
  
-<div style="display:flex" align="center" dir="center"><br>
+<div style="display:flex" align="center"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnkerschner&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnkerschner&theme=react&show_icons=true" />
 </div>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BK-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
