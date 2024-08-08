@@ -19,7 +19,7 @@
 
  <br> 
  
-<div ><br>
+<div align="center"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnkerschner&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnkerschner&theme=react&show_icons=true" />
 </div>
