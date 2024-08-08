@@ -3,8 +3,7 @@
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
-    <br>
-    <br>
+
 <br>
   <p align="left"> 
   Cursando Desenvolvimento Front-End.
@@ -24,6 +23,8 @@
 </div>
 
 <br>
+
+<h2>Linguagens</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BK-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
