@@ -8,8 +8,8 @@
 
 <br>
   <p align="left"> 
-  Cursando Desenvolvimento Front-End.
-  Sou Desenvolvedor Front-End há 6 meses, sendo 2 com ReactJS.
+  Cursando Desenvolvimento Fullstack.
+  Sou Desenvolvedor Fullstack há 1 ano.
   
   Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
   </p>
